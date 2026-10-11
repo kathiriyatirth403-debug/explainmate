@@ -1,0 +1,8 @@
+*.zip
+*.csv
+.aws/
+credentials
+*.pem
+output.json
+payload.json
+response.json
